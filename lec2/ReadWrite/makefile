@@ -12,4 +12,4 @@ fileOpenClose.o: fileReadWrite.c
 
 clean:
 	rm -f *.o
-	rm -f $(TARGET)CC=gcc
+	rm -f $(TARGET)
